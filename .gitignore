@@ -1,0 +1,10 @@
+
+desktop.ini
+*.CSPcbDocPreview
+*.SchDocPreview
+*.LOG
+[Hh]istory/
+[Ll]ogs/
+_Previews/
+[Oo]utputs/
+
